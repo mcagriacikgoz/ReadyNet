@@ -74,6 +74,22 @@ Caching Strategies: Reducing database costs.
 Message Queuing: Managing background tasks.
 
 
+
 ## 👤 Author
 Çağrı Açıkgöz 
 [My LinkedIn Profile](https://www.linkedin.com/in/cagriack/)
+
+
+## 📸 Demo
+
+### Health Check
+![Health](images/healthy.png)
+
+### Docker Services Running
+![Docker](images/dockerstats2.png)
+
+### Click Statistics
+![Stats](images/stats.png)
+
+### Short URL
+![Short URL](images/shorturl.png)
